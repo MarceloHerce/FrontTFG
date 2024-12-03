@@ -67,12 +67,12 @@ El frontal se despliegua en un app service en azure, el back en kubernetes, se t
 Una vez se encuentre todo desplegado y conectado, deberemos iniciar sesion para poder grabar pantalla. Para grabar pantalla sera obligatorio asignar un nombre, una vez se haya introducido el nombre, pulsaremos en grabar pantalla y selecionaremos los ajustes deseados. Cuando queramos detener la grabación pulsaremos en detener y posteriormente en dejar de compartir. Entonces tendremos dos opciones, descargar el video, o subirlo a azure. Una vez el video se haya subido podremos verlo, compartirlo, borrarlo o descargarlo.
 
 ### Enlace a la documentación
-Se encuentra en el cliente [Screenrecorder](https://github.com/MarceloHerce/ClienteTFG)
+Se encuentra en el cliente [Screenrecorder](https://github.com/MarceloHerce/FrontTFG)
 
 ### Enlaces de github
-Frontend: [Screenrecorder](https://github.com/MarceloHerce/ClienteTFG)  
-Backend: [ScreenrecorderApi](https://github.com/MarceloHerce/APIUserTFG)  
-BBDD: [ScreenrecorderDatabase](https://github.com/MarceloHerce/BBDDTFG)
+Frontend con documentacion: [Screenrecorder](https://github.com/MarceloHerce/FrontTFG)  
+Backend: [ScreenrecorderApi](https://github.com/MarceloHerce/BackTFG)   
+BBDD: [ScreenrecorderDatabase](https://github.com/MarceloHerce/BBDDTFG2)  
 
 ### Enlace a figma de la interfaz
 [Screenrecorder figma](https://github.com/MarceloHerce/ClienteTFG)
